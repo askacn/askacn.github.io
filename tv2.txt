@@ -13,9 +13,9 @@ CCTV-1综合,http://1583.hsmedia.top:8080/newlive/live/hls/2/live.m3u8
 CCTV-1综合,http://58.19.38.233:8888/newlive/live/hls/2/live.m3u8
 CCTV-1综合,http://183.134.3.22:8888/newlive/live/hls/2/live.m3u8
 CCTV-1综合,http://111.225.93.57:8800/hls/1/index.m3u8
+CCTV-2财经,http://1278.hsmedia.top:8080/newlive/live/hls/2/live.m3u8
 CCTV-2财经,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 CCTV-2财经,http://58.220.219.14:9901/tsfile/live/0002_1.m3u8?key=txiptv
-CCTV-2财经,http://1278.hsmedia.top:8080/newlive/live/hls/2/live.m3u8
 CCTV-2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 CCTV-2财经,http://1583.hsmedia.top:8080/newlive/live/hls/3/live.m3u8
 CCTV-2财经,http://61.182.33.218:8000/hls/2/index.m3u8
@@ -69,10 +69,10 @@ CCTV-7国防军事,http://36.33.240.48:9901/tsfile/live/0007_1.m3u8
 CCTV-7国防军事,http://1304.hsmedia.top:8080/newlive/live/hls/8/live.m3u8
 CCTV-7国防军事,http://58.220.219.14:9901/tsfile/live/0007_1.m3u8?key=txiptv
 CCTV-7国防军事,https://live.goodiptv.club/api/bestv.php?id=cctv7hd8m/8000000
+CCTV-8电视剧,http://1278.hsmedia.top:8080/newlive/live/hls/8/live.m3u8
 CCTV-8电视剧,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 CCTV-8电视剧,http://183.134.3.22:8888/newlive/live/hls/9/live.m3u8
 CCTV-8电视剧,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-CCTV-8电视剧,http://1278.hsmedia.top:8080/newlive/live/hls/8/live.m3u8
 CCTV-8电视剧,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
 CCTV-8电视剧,http://58.19.38.233:8888/newlive/live/hls/10/live.m3u8
 CCTV-8电视剧,http://1304.hsmedia.top:8080/newlive/live/hls/9/live.m3u8
@@ -86,11 +86,11 @@ CCTV-9记录,http://58.220.219.14:9901/tsfile/live/0009_1.m3u8?key=txiptv
 CCTV-9记录,https://epg.pw/stream/468810bb8a5aea0738c0e707e4b0ed227aeb431a11a977aa1a43fd542997f525.m3u8
 CCTV-9记录,http://1304.hsmedia.top:8080/newlive/live/hls/10/live.m3u8
 CCTV-9记录,http://36.33.240.48:9901/tsfile/live/0009_1.m3u8
+CCTV-10科教,http://1278.hsmedia.top:8080/newlive/live/hls/10/live.m3u8
 CCTV-10科教,https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
 CCTV-10科教,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 CCTV-10科教,http://1583.hsmedia.top:8080/newlive/live/hls/12/live.m3u8
 CCTV-10科教,http://58.19.38.233:8888/newlive/live/hls/12/live.m3u8
-CCTV-10科教,http://1278.hsmedia.top:8080/newlive/live/hls/10/live.m3u8
 CCTV-10科教,http://36.33.240.48:9901/tsfile/live/0010_1.m3u8
 CCTV-10科教,http://1304.hsmedia.top:8080/newlive/live/hls/11/live.m3u8
 CCTV-11戏曲,http://58.19.38.233:8888/newlive/live/hls/13/live.m3u8
@@ -115,9 +115,8 @@ CCTV-15音乐,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3
 CCTV-16奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV-16奥林匹克,http://1304.hsmedia.top:8080/newlive/live/hls/17/live.m3u8
 CCTV-16奥林匹克,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
-CCTV-17 农业农村,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
-CCTV-17 农业农村,http://1304.hsmedia.top:8080/newlive/live/hls/18/live.m3u8
-
+CCTV-17农业农村,http://1304.hsmedia.top:8080/newlive/live/hls/18/live.m3u8
+CCTV-17农业农村,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 卫视,#genre#
 江苏卫视,https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
 江苏卫视,http://1304.hsmedia.top:8080/newlive/live/hls/32/live.m3u8
@@ -174,7 +173,6 @@ CCTV-17 农业农村,http://1304.hsmedia.top:8080/newlive/live/hls/18/live.m3u8
 深圳卫视,http://1583.hsmedia.top:8080/newlive/live/hls/38/live.m3u8
 重庆卫视,http://1639.hsmedia.top:8080/newlive/live/hls/30/live.m3u8
 四川卫视,http://1639.hsmedia.top:8080/newlive/live/hls/31/live.m3u8
-
 影视少儿,#genre#
 卡酷少儿,https://live.goodiptv.club/api/bestv.php?id=kkse8m/8000000
 青春动漫,https://live.goodiptv.club/api/bestv.php?id=qcdm8m/8000000
