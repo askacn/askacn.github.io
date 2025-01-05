@@ -10,8 +10,8 @@ CCTV-4中文国际,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-americ
 CCTV-4中文国际,http://z.b.bkpcp.top/m.php?id=cctv4
 CCTV-4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m
 CCTV-4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o
-CCTV-5体育,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 CCTV-5体育,http://z.b.bkpcp.top/m.php?id=cctv5
+CCTV-5体育,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 CCTV-5+体育赛事,http://z.b.bkpcp.top/m.php?id=cctv5p
 CCTV-6电影,http://58.220.219.14:9901/tsfile/live/0006_1.m3u8?key=txiptv
 CCTV-6电影,http://z.b.bkpcp.top/m.php?id=cctv6
